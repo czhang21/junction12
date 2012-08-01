@@ -1,1 +1,1 @@
-We merged the changes.
+We merged the changes!
