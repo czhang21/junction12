@@ -1,3 +1,12 @@
+function sin(x){
+  return Math.sin(x);
+}
+
+function tan(x){
+  return Math.tan(x);
+}
+
+
 var model = (function(){
     return {
         numSegments: 100,
